@@ -1,0 +1,14 @@
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\bin\Debug\net6.0\conversorDeUnidades.exe
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\bin\Debug\net6.0\conversorDeUnidades.deps.json
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\bin\Debug\net6.0\conversorDeUnidades.runtimeconfig.json
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\bin\Debug\net6.0\conversorDeUnidades.dll
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\bin\Debug\net6.0\conversorDeUnidades.pdb
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.AssemblyInfo.cs
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.dll
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\refint\conversorDeUnidades.dll
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.pdb
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\conversorDeUnidades.genruntimeconfig.cache
+C:\Users\ariel\source\repos\conversorDeUnidades\conversorDeUnidades\obj\Debug\net6.0\ref\conversorDeUnidades.dll
